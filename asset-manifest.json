@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/caleb-portfolio/static/css/main.2c4ca80f.css",
+    "main.js": "/caleb-portfolio/static/js/main.c98d5b2f.js",
+    "index.html": "/caleb-portfolio/index.html",
+    "main.2c4ca80f.css.map": "/caleb-portfolio/static/css/main.2c4ca80f.css.map",
+    "main.c98d5b2f.js.map": "/caleb-portfolio/static/js/main.c98d5b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4ca80f.css",
+    "static/js/main.c98d5b2f.js"
+  ]
+}
